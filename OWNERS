@@ -1,9 +1,4 @@
-# See the OWNERS docs at https://go.k8s.io/owners
-
 approvers:
-  - kubernetes-csi-approvers
-  - bswartz
-
-reviewers:
-  - kubernetes-csi-reviewers
-  - bswartz
+- openshift-storage-maintainers
+component: "Storage"
+subcomponent: Kubernetes External Components
